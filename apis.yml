@@ -1,9 +1,34 @@
 aid: manex-ai
-name: Manex Ai
-description: Manex Ai is a company surfaced as a portfolio company of lightspeed-venture-partners and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+name: Manex AI
+description: >-
+  Manex AI (Manex AI GmbH) is a European enterprise AI company that builds
+  Kosmos, an Autonomous Enterprise AI Platform for industrial and manufacturing
+  OEMs and their suppliers. Kosmos models the domains a business runs on and
+  lets AI agents, workflows, and applications act on full enterprise context
+  instead of fragments. On top of Kosmos, Manex ships purpose-built autonomous
+  suites: Blackbelt (computer-aided quality / CAQ), Takt (manufacturing
+  execution / MES), and Gemba (shopfloor operations), plus Horizon, a
+  distribution platform that makes a solution built at one site instantly
+  available to every other. Manex serves aerospace, automotive, chemistry,
+  electronics, semiconductors, pharma and biotech, heavy equipment, industrial
+  machinery, and home-appliance manufacturers. Made in Europe and built for the
+  strictest compliance standards, the platform runs in cloud, on-premise, or
+  hybrid environments with customer-controlled data residency, GDPR options,
+  ISO 27001 and TISAX certification, enterprise access control, and full audit
+  history. Manex AI is a portfolio company of Lightspeed Venture Partners.
 url: https://raw.githubusercontent.com/api-evangelist/manex-ai/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://manex.ai/en/opengraph-image
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,12 +37,48 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Artificial Intelligence
+- Manufacturing
+- Industrial
+- Enterprise AI
+- Autonomous Agents
+- Quality
+- Manufacturing Execution
+- Compliance
 apis: []
+common:
+- type: TrustCenter
+  url: security/manex-ai-trust-center.yml
+- type: Conformance
+  url: conformance/manex-ai-conformance.yml
+- type: Compliance
+  url: conformance/manex-ai-conformance.yml
+- type: DomainSecurity
+  url: security/manex-ai-domain-security.yml
+- type: Website
+  url: https://manex.ai/en
+- type: Blog
+  url: https://manex.ai/en/blog
+- type: Support
+  url: https://manex.ai/en/faq
+- type: About
+  url: https://manex.ai/en/company/mission
+- type: PrivacyPolicy
+  url: https://manex.ai/en/privacy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/manex-ai
+- type: LLMsTxt
+  url: llms/manex-ai-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1
