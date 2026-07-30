@@ -1,0 +1,51 @@
+# Manex AI
+
+Manex AI (Manex AI GmbH) builds autonomous enterprise AI for industrial and
+manufacturing organizations. Made in Europe, built to operate under the
+strictest compliance standards for AI in critical industry.
+
+## What we do
+
+We deliver one production system for autonomous manufacturing. It unifies the
+data, decisions, and knowledge of an enterprise so AI agents, workflows, and
+applications can act on full context instead of fragments.
+
+## Products
+
+- Kosmos — the Autonomous Enterprise AI Platform; models the domains a
+  business runs on and lets agents act on them. The foundation for all suites.
+- Horizon — the distribution platform that makes a solution built at one site
+  instantly available to every other, so local innovation compounds.
+
+## Suites (built on Kosmos)
+
+- Blackbelt — Autonomous CAQ (computer-aided quality) system.
+- Takt — Autonomous MES (manufacturing execution system).
+- Gemba — Autonomous shopfloor system.
+
+## Target market
+
+Industrial and manufacturing OEMs and their suppliers, including aerospace,
+automotive, chemistry, electronics, semiconductors, pharma & biotech, heavy
+equipment, industrial machinery, and home appliances.
+
+## Trust
+
+Cloud, on-premise, or any environment. Data residency by the customer's
+standards; GDPR compliance available for European customers. Certified to
+ISO 27001 and TISAX. Enterprise access control and full audit history.
+
+## Key pages
+
+- Home: https://manex.ai/en
+- Kosmos: https://manex.ai/en/product/kosmos
+- Horizon: https://manex.ai/en/product/horizon
+- Blackbelt: https://manex.ai/en/product/blackbelt
+- Takt: https://manex.ai/en/product/takt
+- Gemba: https://manex.ai/en/product/gemba
+- Mission: https://manex.ai/en/company/mission
+- Team: https://manex.ai/en/team
+- Careers: https://manex.ai/en/careers
+- Blog: https://manex.ai/en/blog
+- FAQ: https://manex.ai/en/faq
+- Contact: info@manex.ai

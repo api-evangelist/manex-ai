@@ -1,0 +1,24 @@
+generated: '2026-07-20'
+method: searched
+source: https://www.manex.ai/llms.txt
+url: https://manex.ai/en
+certifications:
+- ISO 27001
+- TISAX
+- GDPR
+notes: >-
+  Manex AI publishes its trust/compliance posture on its site and in its
+  published llms.txt: certified to ISO 27001 and TISAX, with GDPR compliance
+  available for European customers. Deployable in cloud, on-premise, or hybrid
+  environments with customer-controlled data residency, enterprise access
+  control, and full audit history. Manex does not publish a dedicated trust
+  center page or a machine-readable /.well-known/security.txt; the marketing
+  site is a SPA that returns soft-404 pages for unknown paths.
+evidence:
+- source: https://www.manex.ai/llms.txt
+  keywords:
+  - iso 27001
+  - tisax
+  - gdpr
+  - data residency
+  - audit history
